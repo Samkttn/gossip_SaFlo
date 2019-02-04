@@ -1,24 +1,5 @@
-# README
+# Voilà notre gossip amélioré ! 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Salut, j'espère que tu vas bien ? Fais le nous savoir quand tu vas nous appeler.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ce travail vous est présenté par Florian un beau blond sexy à la crinière de lion ( il ressemble au blond dans Rrrrrrr) et Samir qui ressemble au bouclé dans Rrrrrr.
